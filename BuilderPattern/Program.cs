@@ -37,6 +37,20 @@ namespace BuilderPattern
 
             Console.WriteLine(fluentPOBuilder.purchaseOrder.LineItems[0].ProductName);
             Console.ReadLine();
+
+            // Recursive Generics
+            Console.WriteLine("## Recursive Generics ##");
+
+            // ** Compile Error ** //
+            // DerivedClass derivedClass = new DerivedClass();
+            //derivedClass.SetName("Reynier")
+            //    .SetAge(10);
+
+            // How to fix down cast error as above
+            PersonRG.New
+                .SetName("Reynier")
+                .SetAge(10);
+
         }
     }
 }
