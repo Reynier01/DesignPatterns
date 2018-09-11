@@ -1,0 +1,11 @@
+C:\Git\Spikes\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.deps.json
+C:\Git\Spikes\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.json
+C:\Git\Spikes\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.dev.json
+C:\Git\Spikes\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.dll
+C:\Git\Spikes\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.pdb
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csprojAssemblyReference.cache
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfo.cs
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.dll
+C:\Git\Spikes\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.pdb

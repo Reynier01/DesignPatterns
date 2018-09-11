@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Spikes\\DesignPattern\\BuilderPattern\\BuilderPattern.csproj",
+      "projectUniqueName": "C:\\Git\\Spikes\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
       "projectName": "BuilderPattern",
-      "projectPath": "C:\\Git\\Spikes\\DesignPattern\\BuilderPattern\\BuilderPattern.csproj",
+      "projectPath": "C:\\Git\\Spikes\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
       "packagesPath": "C:\\Users\\rbooysen\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Spikes\\DesignPattern\\BuilderPattern\\obj\\",
+      "outputPath": "C:\\Git\\Spikes\\DesignPatterns\\BuilderPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
