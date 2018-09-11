@@ -13,3 +13,4 @@ Design Patterns
 3. FluentPOBuilder is a fluent implementation of the PurchaseOrderBuilder also from [here](https://www.youtube.com/watch?v=oO-TB8niPoY)
 
 #### Extra's
+1. Recursive Generics from [here](https://www.udemy.com/design-patterns-csharp-dotnet/learn/v4/t/lecture/8708948?start=0)
